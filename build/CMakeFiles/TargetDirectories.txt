@@ -1,0 +1,3 @@
+C:/Users/symon/Documents/STUDIA/politechnika/magisterskie/2 sem/C++/prace domowe/lab-3-SB-koperkowypiesek/build/CMakeFiles/zal.dir
+C:/Users/symon/Documents/STUDIA/politechnika/magisterskie/2 sem/C++/prace domowe/lab-3-SB-koperkowypiesek/build/CMakeFiles/edit_cache.dir
+C:/Users/symon/Documents/STUDIA/politechnika/magisterskie/2 sem/C++/prace domowe/lab-3-SB-koperkowypiesek/build/CMakeFiles/rebuild_cache.dir
