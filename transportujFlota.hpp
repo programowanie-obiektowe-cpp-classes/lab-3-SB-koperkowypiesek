@@ -5,14 +5,15 @@
 unsigned int transportujFlota(unsigned int towar)
 {
     unsigned int licznik_zaglowcow = 0;
+    int          pozostały_towar   = towar;
 
-    while (towar > 0) {
+    while (pozostały_towar > 0) {
         Stocznia stocznia_1{};
         Statek*  statek_1 = stocznia_1();
         if (dynamic_cast< Zaglowiec* >(statek_1) != nullptr) {
             licznik_zaglowcow++;
         }
-        towar -= statek_1->transportuj();
+        pozostały_towar -= statek_1->transportuj();
 
         delete statek_1;
     }
