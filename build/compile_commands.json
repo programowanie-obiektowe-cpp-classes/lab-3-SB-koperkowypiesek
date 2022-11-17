@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/symon/Documents/STUDIA/politechnika/magisterskie/2 sem/C++/prace domowe/lab-3-SB-koperkowypiesek/build",
+  "command": "C:\\tools\\mingw64\\bin\\g++.exe  @CMakeFiles/zal.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\zal.dir\\test.cpp.obj -c \"C:\\Users\\symon\\Documents\\STUDIA\\politechnika\\magisterskie\\2 sem\\C++\\prace domowe\\lab-3-SB-koperkowypiesek\\test.cpp\"",
+  "file": "C:/Users/symon/Documents/STUDIA/politechnika/magisterskie/2 sem/C++/prace domowe/lab-3-SB-koperkowypiesek/test.cpp"
+}
+]
